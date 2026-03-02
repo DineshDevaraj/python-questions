@@ -1,5 +1,5 @@
 # Easy
-- Given a list of strings, group all anagrams together and return a list of groups. Two strings are anagrams if they contain the same characters in different order. The order of the groups and strings within groups does not matter. This challenges candidates to think about hashing and sorting strategies efficiently.
+- Given a list of strings, group all anagrams together and return a list of groups. Two strings are anagrams if they contain the same characters in different order. The order of the groups and strings within groups does not matter.
  ```
     Input: [["eat","tea","tan","ate","nat","bat"]]
     Output: [["eat","tea","ate"], ["tan","nat"], ["bat"]]
