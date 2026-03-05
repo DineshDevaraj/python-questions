@@ -81,8 +81,7 @@
    print(issubclass(types.GeneratorType, typing.Iterator))
 ```
 
-- Implement the `countries` function in the below code   
-  in such a way that it will print all the countries in Europe
+- Implement the `countries` function in the below code in such a way that it will print all the countries in Europe
 ```
     for country in countries("Europe"):
 	    print(n)
