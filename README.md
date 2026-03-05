@@ -1,4 +1,13 @@
 # Easy
+- Matrix Row Sums: Given a 2D matrix of integers, return an array where each element is the sum of a row. 
+```
+   Input: matrix (list[list[int]])
+   Output: list[int] (row sums)
+   Example:
+      Input: [[1,2,3],[4,5,6]]
+      Output: [6,15]
+```
+
 - Given a list of strings, group all anagrams together and return a list of groups. Two strings are anagrams if they contain the same characters in different order. The order of the groups and strings within groups does not matter.
  ```
     Input: ["eat","tea","tan","ate","nat","bat"]
