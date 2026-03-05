@@ -73,7 +73,7 @@
 
 - Write a iterator to generate infinite series of even numbers
 - Write a generator to generate infinite series of odd numbers
-- What is will be the output of the below code, tell me your interpretation of the output?
+- What will be the output of the below code, tell me your interpretation of the output?
 ```
    import types, typing
    print(issubclass(typing.Generator, typing.Iterator))
