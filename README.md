@@ -99,3 +99,15 @@
   3. You want to support at least m connections
   4. Find the minimum of devices required to support at least m connections 
   5. Return the index of respective devices without changing the order
+
+- Given a string containing only the characters ()[]{}, determine if the brackets are valid. A string is valid if every opening bracket is closed by the same type and in the correct order. Return True or False.
+```
+   Input: expr (string)
+   Output: boolean
+   Example-1: 
+      Input: "{[()]}"
+      Output: True ; 
+   Example-2:
+      Input: "([)]"
+      Output: False
+```
