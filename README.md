@@ -41,8 +41,8 @@
     Output: 12
 ```
 
-- Generate only odd numbers using range function
-- Generate only even number using range function
+- Generate only even number using range function and without if condition
+- Generate odd numbers using range function and without if condition
 
 # Medium
 - Moving Average
