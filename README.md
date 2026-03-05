@@ -73,13 +73,16 @@
 
 - Write a iterator to generate infinite series of even numbers
 - Write a generator to generate infinite series of odd numbers
+
 - What will be the output of the below code, tell me your interpretation of the output?
 ```
    import types, typing
    print(issubclass(typing.Generator, typing.Iterator))
    print(issubclass(types.GeneratorType, typing.Iterator))
 ```
-- Implement the below `countries` function in the below code
+
+- Implement the `countries` function in the below code   
+  in such a way that it will print all the countries in Europe
 ```
     for country in countries("Europe"):
 	    print(n)
